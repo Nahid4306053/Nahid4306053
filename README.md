@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahid4306053
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Dajong
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on leanrning and gaining.
 - 📫 How to reach me ku4306053@gmail.com
 
