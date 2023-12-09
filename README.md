@@ -1,13 +1,24 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm MD NAHID HASAN 👋
 
-## About Me
-Passionate 🚀 Full Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js. Proficient in HTML, JavaScript, CSS, and skilled in frameworks like Tailwind, Bootstrap, jQuery, and SCSS to enhance user experiences.
+## 👨‍💻  About Me
+Passionate 🚀 Full Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js. Proficient in HTML, JavaScript, and CSS, and skilled in frameworks like Tailwind, Bootstrap, jQuery, and SCSS to enhance user experiences.
 
 I bring a track record of delivering high-quality code through hands-on experience in diverse projects. A collaborative team player 🤝, I contribute expertise to drive innovative solutions. Guided by a vision of user-centric design and cutting-edge technologies 🌐, I am committed to building scalable applications that redefine web development standards.
 
-Eager to contribute and thrive in dynamic environments, I am well-equipped to excel in frontend development while navigating backend intricacies. 🚀💻 Let's innovate together!
+Eager to contribute and thrive in dynamic environments, I am well-equipped to excel in front-end development while navigating backend intricacies. 🚀💻 Let's innovate together!
+
+## 👀 Current Overview
+
+### 🔭 Passionate About - Elevating Web Development to an art form, with a primary focus on frontend excellence.
+### 🌱 Currently Delving Into - the intricate realm of Redux, sculpting state management skills to perfection.
+### 👯 Eager to Collaborate - on visionary open-source projects, where creativity and impact converge.
+### 🤔 Committed to - Empowering the community by unraveling complex web development challenges.
+### ⚡ Fun Fact - Beyond the code, I channel creativity into crafting mesmerizing and intricate origami. Fluent in the languages of code and conversation.
+
+<br />
 
 ## Let's Connect!
+
 Excited to explore new opportunities, collaborate on projects, and connect with fellow developers. Feel free to reach out, and let's create exceptional digital experiences together! 🚀
 <br />
 
