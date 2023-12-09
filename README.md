@@ -22,7 +22,7 @@ Eager to contribute and thrive in dynamic environments, I am well-equipped to ex
 Excited to explore new opportunities, collaborate on projects, and connect with fellow developers. Feel free to reach out, and let's create exceptional digital experiences together! 🚀
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/linkidin.png">](https://www.linkedin.com/in/nahid-hasan-dev360/)[<img height="75" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/facebook.png">](https://www.facebook.com/profile.php?id=100094107382390)[<img height="75" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/email.png"> </p>](mailto:nahid.hasan.dev360@gmail.com)
+[<p align="center"><img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/linkidin.png">](https://www.linkedin.com/in/nahid-hasan-dev360/)[<img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/facebook.png">](https://www.facebook.com/profile.php?id=100094107382390)[<img  width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/email.png"> </p>](mailto:nahid.hasan.dev360@gmail.com)
 
 <br />
 
