@@ -50,7 +50,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 <img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/mongoose.png"/>
 </p><br/>
 
-## 📊 By the way here are some of my statistics 🚀
+## 📊 My statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&card_width=400)](https://git.io/streak-stats) | ![Nahid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid4306053&card_width=400&theme=tokyonight&layout=compact&langs_count=8)
 
