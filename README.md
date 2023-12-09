@@ -50,6 +50,16 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 <img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/mongoose.png"/>
 </p><br/>
 
+## 📊 By the way here are some of my statistics 🚀
 
-[![Nahid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Nahid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid4306053&card_width=400&theme=tokyonight&layout=compact&langs_count=10)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&card_width=400)](https://git.io/streak-stats)
+
+![Nahid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid4306053&card_width=400&theme=tokyonight&layout=compact&langs_count=8)
+
+[![NAhid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahid4306053&theme=github)](https://github.com/Nahid4306053/github-readme-activity-graph)
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/line-neon.gif" width="100%">
