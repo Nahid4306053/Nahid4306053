@@ -26,5 +26,30 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 
 <br />
 
+
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/HTML.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/css.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/JavaScript.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/react.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/sass.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/tailwind.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/Bootsrap.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/firebase.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/jquery.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/node.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/express.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/mongo.png"/>
+<img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/icons/mongoose.png"/>
+</p><br/>
+
+
 [![Nahid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Nahid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid4306053&card_width=400&theme=tokyonight&layout=compact&langs_count=10)
