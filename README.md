@@ -1,7 +1,7 @@
 ![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner.png)
 
 ## 👨‍💻  About Me
-I am a Passionate 🚀 Full MERN Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js. Proficient in HTML, JavaScript, and CSS, and skilled in frameworks like Tailwind, Bootstrap, jQuery, and SCSS to enhance user experiences.
+I am a Passionate 🚀 MERN Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js.
 
 I bring a track record of delivering high-quality code through hands-on experience in diverse projects. A collaborative team player 🤝, I contribute expertise to drive innovative solutions. Guided by a vision of user-centric design and cutting-edge technologies 🌐, I am committed to building scalable applications that redefine web development standards.
 
