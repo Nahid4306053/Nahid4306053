@@ -1,4 +1,4 @@
-# Hello, I'm MD NAHID HASAN 👋
+[![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner.png)]
 
 ## 👨‍💻  About Me
 I am a Passionate 🚀 Full Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js. Proficient in HTML, JavaScript, and CSS, and skilled in frameworks like Tailwind, Bootstrap, jQuery, and SCSS to enhance user experiences.
