@@ -54,7 +54,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 
 
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&card_width=400&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahid4306053&theme=tokyonight&&card_width=500) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&card_width=400&hide_border=true?user=&mode=weekly)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahid4306053&theme=tokyonight&&card_width=500) |
 | --- | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahid4306053&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahid4306053&theme=tokyonight&utcOffset=8) |
 
