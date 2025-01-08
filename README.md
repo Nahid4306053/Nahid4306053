@@ -34,16 +34,15 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 <h3 align="left">Languages and Tools:</h3>
 <br />
 
-<!-- 3-column grid -->
-<h3 align="left">Languages and Tools:</h3>
-<br />
 <div
   align="left"
   style="
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    padding: 20px;
+    display: flex;
+    justify-content:center;
+    align-items:cenetr;
+    flex-wrap: wrap;
+    gap: 100px;
+    padding: 80px;
     border-radius: 12px;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(8px);
@@ -123,11 +122,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
       height="100"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -240,6 +235,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
     />
   </a>
 </div>
+
 
 
 ## 📊 My statistics 
