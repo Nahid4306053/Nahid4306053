@@ -37,8 +37,20 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 <!-- 3-column grid -->
 <h3 align="left">Languages and Tools:</h3>
 <br />
-
-<div align="left" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div
+  align="left"
+  style="
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  "
+>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -147,11 +159,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
       height="100"
     />
   </a>
-  <a
-    href="https://www.photoshop.com/en"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
       alt="photoshop"
@@ -215,11 +223,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
       height="100"
     />
   </a>
-  <a
-    href="https://www.adobe.com/products/xd.html"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
       alt="xd"
@@ -236,8 +240,6 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
     />
   </a>
 </div>
-
-
 
 
 ## 📊 My statistics 
