@@ -32,7 +32,10 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
 ## :computer: Technologies that I know
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br />
+
+<!-- 3-column grid -->
+<div align="left" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -217,7 +220,8 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
       height="40"
     />
   </a>
-</p>
+</div>
+
 
 
 ## 📊 My statistics 
