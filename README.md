@@ -1,33 +1,69 @@
 ![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner2.png)
 
-## 👨‍💻  About Me
-I am a Passionate 🚀 MERN Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js.
+## 👨‍💻 About Me
+I am a **proactive full stack developer** with a keen eye for detail and a passion for crafting seamless and user-friendly web applications. Equipped with a strong understanding of both front-end and back-end technologies, I bring **hands-on experience** from a variety of projects. Eager to thrive and evolve in a **dynamic development environment**, I focus on MERN and PERN stack development to deliver optimized solutions.
 
-I bring a track record of delivering high-quality code through hands-on experience in diverse projects. A collaborative team player 🤝, I contribute expertise to drive innovative solutions. Guided by a vision of user-centric design and cutting-edge technologies 🌐, I am committed to building scalable applications that redefine web development standards.
+Currently, I’m working at **Spectrum Software & Consulting Ltd., Dhaka, Bangladesh** (since February 2024), where I am honing my skills across the **MERN** and **PERN** stacks, gaining practical experience in **full-stack web development**. 
 
-Eager to contribute and thrive in dynamic environments, I am well-equipped to excel in front-end development while navigating backend intricacies. 🚀💻 Let's innovate together!
+<br />
 
 ## 👀 Current Overview
 
-### 🔭 Passionate About - Elevating Web Development to an art form, with a primary focus on frontend excellence.
-### 🌱 Currently Delving Into - the intricate realm of Redux, sculpting state management skills to perfection.
-### 👯 Eager to Collaborate - on visionary open-source projects, where creativity and impact converge.
-### 🤔 Committed to - Empowering the community by unraveling complex web development challenges.
-### ⚡ Fun Fact - Beyond the code, I channel creativity into crafting mesmerizing and intricate origami. Fluent in the languages of code and conversation.
+### 🔭 My Focus  
+- Building efficient, user-friendly web applications with MERN & PERN stacks.  
+- Leveraging best practices in performance optimization, security, and clean code.
+
+### 🌱 Currently Exploring  
+- Advanced React.js, Next.js, Redux, and React Query to further enhance front-end capabilities.  
+- TypeScript and Express Validator for robust, type-safe back-end services.  
+- **Expanding into AI** (Artificial Intelligence) to discover new innovations and add intelligent features to my projects.
+
+### 👯 Open to Collaborate  
+- On innovative projects that emphasize user-centric design, best coding practices, and modern tech stacks.
+
+### 🤔 Committed to  
+- Continuous learning, delivering high-quality code, and embracing new challenges in evolving tech environments.
+
+<br />
+
+## Projects
+
+**TripGuidance – Tour Guide Platform**  
+- Developed a seamless booking system, optimizing user experience and simplifying travel planning.  
+- Implemented a loyalty token system for users, rewarding every third order with exclusive discounts.  
+- Integrated secure payment processing via Stripe for a trustworthy financial experience.
+
+**DriveHub – Car Rental and Community Platform**  
+- Car Rental System: Users can browse, filter, and rent cars online with integrated payment support.  
+- Community Hub: Enables sharing of car journey experiences and community engagement.  
+- Review System: Allows users to provide feedback on rented cars after their trip.
+
+**NahidER School – Extra-Curricular School Management System**  
+- Seamless Course Enrollment: Enabled online and offline enrollments for a better student learning journey.  
+- Collaborative Environment: Students follow teachers, fostering connectivity and engagement.  
+- Wishlist System: Helps students make informed decisions by curating personalized preferences.
 
 <br />
 
 ## Let's Connect!
 
-Excited to explore new opportunities, collaborate on projects, and connect with fellow developers. Feel free to reach out, and let's create exceptional digital experiences together! 🚀
-<br />
-
-[<p  align="center">
-[<img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/linkidin.png">](https://www.linkedin.com/in/nahid-hasan-dev360/)[<img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/facebook.png">](https://www.facebook.com/profile.php?id=100094107382390)
-[<img  width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/email.png"> </p>](mailto:nahid.hasan.dev360@gmail.com)
+I’m always looking to explore new opportunities, collaborate on exciting projects, and connect with fellow developers. Feel free to reach out, and let’s build exceptional digital experiences together! 🚀
 
 <br />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-hasan-dev360/">
+    <img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/linkidin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100094107382390">
+    <img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/facebook.png" alt="Facebook" />
+  </a>
+  <a href="mailto:nahid.hasan.dev360@gmail.com">
+    <img width="200" src="https://github.com/Nahid4306053/Nahid4306053/blob/main/social%20icons/email.png" alt="Email" />
+  </a>
+</p>
+
+<br />
 
 ## :computer: Technologies that I know
 
@@ -38,8 +74,8 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
   align="left"
   style="
     display: flex;
-    justify-content:center;
-    align-items:cenetr;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     gap: 100px;
     padding: 80px;
@@ -50,6 +86,7 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   "
 >
+  <!-- Each icon is 100×100 px; adjust as needed. -->
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -236,18 +273,13 @@ Excited to explore new opportunities, collaborate on projects, and connect with 
   </a>
 </div>
 
-
-
-## 📊 My statistics 
-
-
+## 📊 My Statistics
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahid4306053&theme=tokyonight&card_width=400&hide_border=true?user=&mode=weekly)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahid4306053&theme=tokyonight&&card_width=500) |
 | --- | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahid4306053&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahid4306053&theme=tokyonight&utcOffset=8) |
 
-
-[![NAhid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahid4306053&theme=github)](https://github.com/Nahid4306053/github-readme-activity-graph)
+[![Nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nahid4306053&theme=github)](https://github.com/Nahid4306053/github-readme-activity-graph)
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/banner-footer.gif">
