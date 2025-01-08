@@ -1,4 +1,4 @@
-![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner.png)
+![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner2.png)
 
 ## 👨‍💻  About Me
 I am a Passionate 🚀 MERN Stack Developer with a laser focus on frontend excellence. Specializing in crafting 🎨 polished user interfaces with React.js, I seamlessly bridge frontend design and backend development using Node.js and Express.js.
