@@ -1,4 +1,4 @@
-![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/banner2.png)
+![banner](https://github.com/Nahid4306053/Nahid4306053/blob/main/full-stack-software-engineer-nahid-hasan.png)
 ## 👨‍💻 About Me
 
 Hi, I'm MD Nahid Hasan — a Full-Stack Software Engineer specializing in Banking & Trade Finance Systems.
